@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://huseyero.github.io/sitemap.huseyero.gz
+Sitemap: https://huseyero.github.io/app/sitemap.huseyero.gz
+Sitemap: https://huseyero.github.io/assets/sitemap.huseyero.gz
+Sitemap: https://huseyero.github.io/css/sitemap.huseyero.gz
+Sitemap: https://huseyero.github.io/data/sitemap.huseyero.gz
+Sitemap: https://huseyero.github.io/includes/sitemap.huseyero.gz
+Sitemap: https://huseyero.github.io/item/sitemap.huseyero.gz
+Sitemap: https://huseyero.github.io/src/sitemap.huseyero.gz
